@@ -86,7 +86,7 @@ The research poster is available in the [`docs`](docs) directory.
 
 ![Drug-Target Interaction Research Poster](figures/research-poster.png)
 
-## Tools and Technologies Studied
+## ## Technologies Relevant to This Research
 
 - Python
 - Pandas
